@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2cGy1/3/aS7e8+4rR3mDZoDe9iY6b7kOKgzausdbiuZ80H3BZkImAqErS3VxgmTIJLKDaxerR3OSitbAI+dRw==",
+  "success": true,
+  "projectFilePath": "/Users/jasemduncan/Desktop/CSharp/CrudCSharp/CrudCSharp/CrudCSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/jasemduncan/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/Users/jasemduncan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/jasemduncan/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/jasemduncan/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/jasemduncan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/jasemduncan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/jasemduncan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
